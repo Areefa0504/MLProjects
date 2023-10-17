@@ -3,4 +3,7 @@ pandas
 seaborn
 matplotlib
 catBoost
+xgboost
+Flask
+dill
 -e .
